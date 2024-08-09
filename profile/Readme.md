@@ -1,3 +1,27 @@
-## Hey, this is us 👋 And we are building Logistics Studio
+### Logistics studio
+```
+In the heart of code, where ideas ignite,
+We craft solutions, swift and bright.
+On GitHub’s stage, we take our stand,
+Building tools with steady hand.
 
-![An illustration showing a variety of differently themed Octocats. Monuments from different cities are indicated in the background like the Space Needle, Berlin Fernsehturm and Transamerica Pyramid.](https://user-images.githubusercontent.com/3369400/133268513-5bfe2f93-4402-42c9-a403-81c9e86934b6.jpeg)
+For logistics flows, both near and far,
+We map the routes, like guiding stars.
+Each line of code, a pathway paved,
+Efficiency found, and time is saved.
+
+In repositories, our dreams take flight,
+Turning challenges into light.
+With every commit, a step ahead,
+We streamline paths where others dread.
+
+Collaboration fuels our drive,
+Together, we make systems thrive.
+In the world of bytes and bits,
+Our code delivers, never quits.
+
+On GitHub, we forge the way,
+Logistics made simple, come what may.
+Through algorithms and clever schemes,
+We code the future of our dreams.
+```
